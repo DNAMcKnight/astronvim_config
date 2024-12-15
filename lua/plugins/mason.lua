@@ -11,7 +11,7 @@ return {
         "lua_ls",
         "ts_ls",
         "tailwindcss",
-        "pyright",
+        "pylsp",
         -- add more arguments for adding more language servers
       },
     },
